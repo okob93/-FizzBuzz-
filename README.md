@@ -7,5 +7,5 @@ Navigate my website using these links
 
 * [Skills](./skills.md)
 * [Code](./code.js)
-* [Hobbies](./hobby.md)
+* [Hobbies](./hobbies.md)
 * [Academy Performance](./marks.md)
